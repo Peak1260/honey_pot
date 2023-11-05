@@ -1,16 +1,15 @@
-# honey_pot
+# Honey Pot - A Dessert Delight 🍰
 
-A new Flutter application.
+## Description
+Honey Pot is a Flutter app dedicated to baking and desserts, made as a gift for my girlfriend. It's the perfect place to learn some of my girlfriend's favorite things to cook and bake. It offers a curated collection of mouthwatering dessert images, along with their corresponding recipes.
 
-## Getting Started
+## Screenshots
+Include a screenshot or two to give users a visual preview of your app.
 
-This project is a starting point for a Flutter application.
+![Cake Pops](screenshots/screenshot1.png)
+![Cheesecake](screenshots/screenshot2.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Beautifully curated collection of baking and dessert images.
+- Easy-to-follow recipes for each dessert.
+- Smooth and user-friendly Flutter app experience.
