@@ -6,7 +6,7 @@ Honey Pot is a Flutter app dedicated to baking and desserts, made as a gift for 
 ## Screenshots
 Include a screenshot or two to give users a visual preview of your app.
 
-![Cake Pops](screenshots/screenshot1.png)
+![Cake Pops](assets/Cake_pop.jpg)
 ![Cheesecake](screenshots/screenshot2.png)
 
 ## Features
